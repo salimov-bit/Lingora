@@ -1,0 +1,15 @@
+{
+  "name": "lingora-ai",
+  "version": "1.0.0",
+  "description": "Lingora AI Tutor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest"
+  }
+}
