@@ -1,3 +1,4 @@
+
 {
   "name": "lingora-ai",
   "version": "1.0.0",
@@ -8,8 +9,11 @@
   },
   "dependencies": {
     "@google/genai": "latest",
+    "bcryptjs": "latest",
+    "better-sqlite3": "latest",
     "cors": "latest",
     "dotenv": "latest",
-    "express": "latest"
+    "express": "latest",
+    "jsonwebtoken": "latest"
   }
 }
